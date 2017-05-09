@@ -1,5 +1,4 @@
-﻿using System;
-using static AnalisisLexico.DiccionarioDeTokens;
+﻿using static AnalisisLexico.DiccionarioDeTokens;
 
 namespace AnalisisLexico
 {
